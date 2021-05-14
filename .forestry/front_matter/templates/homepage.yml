@@ -1,0 +1,42 @@
+---
+label: Homepage
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: header_image
+  label: header_image
+- type: file
+  name: header_screenshot
+  label: header_screenshot
+- type: field_group_list
+  name: mirrors
+  label: mirrors
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: url
+    label: url
+- type: image_gallery
+  name: screenshots
+  label: screenshots
+- type: text
+  name: changelog
+  label: changelog
+- type: field_group
+  name: social
+  label: social
+  fields:
+  - type: text
+    name: facebook
+    label: facebook
+  - type: text
+    name: whatsapp
+    label: whatsapp
