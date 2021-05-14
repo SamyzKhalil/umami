@@ -1,0 +1,29 @@
+{
+  "title": "Estimator v5.0 Beta",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit ea excepturi fugiat, libero deserunt ipsam quidem eaque facilis expedita ad totam quae eum unde velit recusandae. Similique veniam architecto dolorum?",
+  "header_image": "/uploads/header-background.jpg",
+  "header_screenshot": "/uploads/screenshots/D_dark.jpg",
+  "mirrors": [
+    {
+      "name": "Mega",
+      "url": "#"
+    },
+    {
+      "name": "GDrive",
+      "url": "#"
+    }
+  ],
+  "screenshots": [
+    "/uploads/screenshots/T_light.jpg",
+    "/uploads/screenshots/D_light.jpg",
+    "/uploads/screenshots/S_light.jpg",
+    "/uploads/screenshots/T_dark.jpg",
+    "/uploads/screenshots/D_dark.jpg",
+    "/uploads/screenshots/S_dark.jpg"
+  ],
+  "changelog": "",
+  "social": {
+    "facebook": "",
+    "whatsapp": ""
+  }
+}
